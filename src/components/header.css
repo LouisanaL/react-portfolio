@@ -1,0 +1,17 @@
+.profile-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.profile-text h1 {
+  font-size: 25px;
+  margin: 0;
+}
+
+.profile-photo img {
+  width: 200px;
+  border-radius: 50%;
+}
